@@ -2,6 +2,14 @@
 
 ## [Unreleased](https://github.com/laravel/pint/compare/v1.25.1...main)
 
+## v1.25.3
+
+Updated name and README for publishing to packagist
+
+## v1.25.2
+
+Temporary release with stdin support
+
 ## [v1.25.1](https://github.com/laravel/pint/compare/v1.25.0...v1.25.1) - 2025-09-19
 
 * Revert "feat: add support for formatting code from stdin" by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/pint/pull/402
